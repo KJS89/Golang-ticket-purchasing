@@ -1,5 +1,4 @@
 //student name: Zhuoran Wang
-//student number:300072664
 
 package main
 
